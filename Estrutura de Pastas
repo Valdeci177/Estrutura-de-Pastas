@@ -1,0 +1,15 @@
+/src
+  /components
+    - ProductList.js
+    - ProductCard.js
+    - Cart.js
+    - Login.js
+    - Register.js
+  /context
+    - AuthContext.js
+    - CartContext.js
+  /pages
+    - Home.js
+    - ProductDetail.js
+  - App.js
+  - index.js
